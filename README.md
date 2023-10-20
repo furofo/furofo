@@ -1,5 +1,5 @@
 <h1 align="center">About me</h1>
-<p align="center"> I am an aspiring full-stack developer who moved to Finland from the U.S.A. I love all things tech and writing code to solve real-world problems!
+<p align="center"> I am an aspiring full-stack developer who moved to Finland from the U.S.A. I love all things tech and writing code to solve real-world problems! Check out some of my favorite projects below!
 </p>
 <h1 align="center">Projects</h1>
 <tr>
