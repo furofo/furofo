@@ -23,25 +23,3 @@
         </p>
     </td>
 </tr>
-<tr>
-     <td width="50%" valign="top">
-          <h3 align="center">Helsinki Bike App</h3>
-          <br/>
-          <p align="center">Full Stack Web App built with React, .Net Framework, C#, and a MYSQL database. Deployed via Docker to an EC2 Instance at https://helsinkibiking.tech/. Gives Data About Bike routes in Helsinki, Finland. </p>
-          Has custom API routes, pagination, and data from millions of rows of Excel data that was converted into SQL database. </p>
-          <a target="_blank" href="https://helsinkibiking.tech/JourneyList">
-            <img src="https://github.com/furofo/furofo/blob/main/HelsiniBikingScreenShot.png" width="100%" alt="Helsinki Bike App"/>
-        </a>
-        <br/>
-        <br/>
-         <p align="center">
-            <a href="https://github.com/furofo/HelsinkiBiking" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-            </a>  
-            <a href="https://helsinkibiking.tech/JourneyList" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=googlechrome&logo-color=white"/>
-            </a>
-        </p>
-     </td>
-    
-</tr>
