@@ -6,7 +6,7 @@
     <td width="50%" valign="top">
         <h3 align="center">Auto Tab Groups</h3>
         <br/>
-        <p align="center">This Chrome extension organizes your tabs into groups based on the rules you set. It has nearly 600 users on the Chrome Web Store, and is recognized for following best coding practices.</p>
+        <p align="center">This Chrome extension organizes your tabs into groups based on the rules you set. It has over 900 users on the Chrome Web Store, and is recognized for following best coding practices.</p>
         <br/>
         <a target="_blank" href="https://chrome.google.com/webstore/detail/auto-tab-groups/nicjeeimgboiijpfcgfkbemiclbhfnio?hl=en">
             <img src="https://github.com/furofo/furofo/blob/main/autotabgroupsscreenshot.png" width="100%" alt="Auto Tab Groups Chrome Extension"/>
